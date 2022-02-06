@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PoopNonStop
 - 👀 Great at eating
-- 📸 Photogprahy and Travel
+- 📸 Photograhy
+- ✈️  Travel
 - 🌱 Leaning to Code
 
 <!---
