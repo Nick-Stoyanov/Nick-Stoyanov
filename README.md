@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PoopNonStop
+- 👋 Hi, I’m @Nick-Stoyanov
 - 👀 Great at eating
 - 📸 Photograhy
 - ✈️  Travel
